@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
- * main - check the code.
+ * _abs - check the code.
  *
- * Return: Always 0.
+ * Return: Always abs of c.
  */
 
 int	_abs(int c)
