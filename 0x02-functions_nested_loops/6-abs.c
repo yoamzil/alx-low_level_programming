@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
- * _abs - check the code.
- *
- * Return: Always abs of c.
+ * _abs - computes the absolute value of an integer
+ * @n: the int to check
+ * Return: the absolute value of int
  */
 
 int	_abs(int c)
